@@ -77,4 +77,8 @@
 
 ### 🚀 Let's collaborate and build something amazing!
 
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YTJndHdoeGtqbWpveHNkNWQ4NWViaWtpcHRha255a2NtaTFzbWlzcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SvqjU0PU6PaFXUTrZz/giphy.gif" />
+</div>
+
 </div>
