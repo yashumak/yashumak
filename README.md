@@ -6,11 +6,6 @@
 
 ### 👋 Hi there, I'm **Yash Umak!**
 
-🚀 Enthusiastic Full Stack Developer with practical experience building scalable, responsive web applications using **React, Next.js, Node.js, and MongoDB**.  
-💡 Passionate about **clean UI, efficient code, and collaborative problem-solving**.  
-📚 Always eager to learn and contribute to impactful tech projects.
-
----
 
 ## 🚀 About Me
 
@@ -32,9 +27,6 @@
 
 ### 🏆 GitHub Streak  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yashumak&theme=radical&hide_border=true)](https://github.com/yashumak)
-
-### 📈 Overall Stats  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yashumak&show_icons=true&theme=radical)](https://github.com/yashumak)
 
 ### 🖥 Top Languages  
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yashumak&layout=compact&theme=radical)](https://github.com/yashumak)
