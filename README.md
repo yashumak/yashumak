@@ -26,7 +26,7 @@
 ## 📊 GitHub Stats
 
 ### 🏆 GitHub Streak  
-[![GitHub Streak](https://streak-stats.demolab.com?user=yashumak&border_radius=2.9)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yashumak&theme=radical&hide_border=true)](https://github.com/yashumak)
 
 ### 🖥 Top Languages  
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yashumak&layout=compact&theme=radical)](https://github.com/yashumak)
